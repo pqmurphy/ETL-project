@@ -16,3 +16,7 @@ Lastly, with the Python script, we loaded these two dataframe tables into a “v
 
 ### Next Steps
 Using the Python script and Postgres, users will be able to further explore the potential trends between different Chicago ordinance violations based on zip code. Additional tables could be potentially added to explore trends based on demographic information and income as well.
+
+### Resources
+* https://www.kaggle.com/chicago/chicago-ordinance-violations
+* https://www.kaggle.com/census/us-population-by-zip-code
